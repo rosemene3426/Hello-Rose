@@ -1,2 +1,2 @@
 # Roseméne-Wanguy-Djey
-Pour le minu projet de java.
+Pour le mini projet de java.
